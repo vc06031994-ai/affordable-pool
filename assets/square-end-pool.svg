@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 190">
+<defs><pattern id="waves" width="34" height="18" patternUnits="userSpaceOnUse"><path d="M0 9 Q8 0 17 9 T34 9" fill="none" stroke="#bcecf9" stroke-width="2.4"/></pattern></defs>
+<path d="M58 28h125c17 0 30 13 30 30v77c0 17-13 30-30 30H58c-17 0-30-13-30-30V58c0-17 13-30 30-30Z" fill="none" stroke="#005881" stroke-width="5"/>
+<path d="M45 40h125c17 0 30 13 30 30v77c0 17-13 30-30 30H45c-17 0-30-13-30-30V70c0-17 13-30 30-30Z" fill="white" stroke="#005881" stroke-width="5"/>
+<path d="M45 42h125c15 0 27 12 27 27v77c0 15-12 27-27 27H45c-15 0-27-12-27-27V69c0-15 12-27 27-27Z" fill="url(#waves)"/>
+<path d="M44 31v-18M56 31v-18M38 16h24M38 24h18" stroke="#36c5e8" stroke-width="4" stroke-linecap="round"/>
+</svg>
